@@ -1,0 +1,13 @@
+{
+    "name": "af-i18n",
+    "title": "i18N",
+    "version": "0.1",
+    "author": "Ian Maffett",
+    "license": "MIT X11",
+    "description": "i18n plugin for App Framework",
+    "categories": [
+        "menu"
+    ],
+    "homepage": "https://github.com/imaffett/af-i18n",
+    "maintainers": ["Ian Maffett"]
+}

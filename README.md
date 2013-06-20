@@ -1,4 +1,29 @@
-af-i18n
-=======
+# i18n plugin using App Framework
 
-i18n plugin for App Framework
+###Author: Ian Maffett
+
+This plugin helps with internationalization in your app using App Framework
+
+This is adapted from http://code.google.com/p/jquery-i18n-properties/
+
+
+# Bugs
+
+Please use github to report any bugs found.  Please provide the following
+
+1. Any error messages from the console
+
+2. Line numbers of offending code
+
+3. Test cases
+
+4. Description of the Error
+
+5. Expected result
+
+6. Browser/Device you are testing on
+
+
+# License
+
+This plugin is licensed under the terms of the MIT License, see the included license.txt file.
